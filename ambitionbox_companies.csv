@@ -1,0 +1,101 @@
+name,ratings,reviews,salaries,interviews,jobs,benefits,photos
+TCS,3.7,84.3k,8.6L,10k,88,11.8k,87
+Accenture,3.9,52.6k,5.7L,7.8k,22.4k,7.3k,39
+Wipro,3.7,50.2k,4.4L,5.5k,555,5.2k,90
+Cognizant,3.8,47.2k,5.6L,5.4k,1.5k,6k,69
+Capgemini,3.8,38.9k,4.2L,4.7k,1.2k,4.1k,41
+HDFC Bank,3.9,37.5k,1.4L,2k,161,3.3k,29
+ICICI Bank,4.0,36.7k,1.5L,2.4k,--,3.8k,55
+Infosys,3.7,36.5k,4.6L,7.4k,960,5.3k,108
+HCLTech,3.6,33.7k,3.2L,3.6k,164,4.2k,33
+Tech Mahindra,3.6,33.1k,2.6L,3.7k,360,3.7k,63
+Genpact,3.9,29.8k,2L,2.9k,2.4k,3.8k,46
+Teleperformance,3.9,27.3k,89.1k,1.7k,313,2.2k,31
+Concentrix Corporation,3.8,25k,1.2L,1.6k,55,3.4k,55
+Axis Bank,3.8,24.2k,98.2k,1.4k,130,2.2k,80
+Amazon,4.1,23.9k,1.2L,4.9k,106,4.4k,78
+Jio,3.9,21.7k,62.5k,1.6k,4.1k,2.7k,65
+Reliance Retail,3.9,21.3k,66.1k,1.5k,28,2k,113
+IBM,4.1,21.1k,2L,2.3k,3.1k,2.8k,23
+iEnergizer,4.7,20.8k,22.1k,523,94,559,25
+HDB Financial Services,4.0,19.5k,49.6k,762,155,1.6k,47
+LTIMindtree,,19.5k,1.7L,2.7k,99,1.2k,34
+Larsen & Toubro Limited,,17.7k,69k,1.3k,182,2.9k,52
+Deloitte,,16.7k,1.8L,2.8k,35,2.6k,23
+BYJU'S,,15.9k,59.2k,2.1k,1,1.9k,28
+Kotak Mahindra Bank,,15.7k,81.3k,1k,62,1.3k,36
+Reliance Industries,,15.1k,66.2k,1.2k,24,2k,34
+Vodafone Idea,,14.9k,54.6k,534,21,2.1k,21
+Bharti Airtel,,13.1k,45.9k,799,170,1.6k,84
+Tata Motors,,11.4k,40.8k,965,8,1.8k,33
+AU Small Finance Bank,,11.2k,24.9k,490,44,494,12
+WNS,,10.5k,55.6k,945,102,1.4k,19
+Flipkart,,10.3k,47.6k,1.3k,124,1.5k,99
+IndusInd Bank,,10.2k,46.7k,570,155,825,12
+Ernst & Young,,10k,1.1L,1.1k,1.6k,1.3k,6
+IDFC FIRST Bank,,9.7k,44.5k,603,69,754,33
+DXC Technology,,9.5k,75.3k,792,195,1.2k,6
+Mahindra & Mahindra,,9.4k,37.3k,657,40,1.3k,9
+Infosys BPM,,9.1k,64.9k,910,38,1.2k,6
+Bajaj Finserv,,8.7k,26.2k,482,11,762,7
+HDFC Life,,8.5k,30.4k,573,71,651,40
+PwC,3.4,8.5k,87.2k,1.3k,2.1k,888,24
+Conneqt Business Solutions,3.7,8.4k,26.4k,437,65,818,29
+Mphasis,3.4,7.8k,66.7k,772,98,904,19
+Yes Bank,3.8,7.2k,42.6k,405,95,641,16
+Maruti Suzuki,4.2,7.1k,25.2k,572,725,1.2k,23
+Startek,3.2,7.1k,23.3k,436,83,730,6
+Paytm,3.3,7.1k,32.3k,739,73,597,22
+Asian Paints,4.0,7k,22.4k,612,27,923,30
+Bandhan Bank,3.7,7k,22.2k,507,4,544,22
+Samsung,4.0,6.9k,26.3k,539,11,584,14
+Ericsson,4.2,6.9k,42.2k,396,4,1.1k,16
+Quess,3.9,6.8k,28.1k,378,49,469,20
+Shriram Finance,4.1,6.8k,13.9k,313,31,57,40
+HGS,3.9,6.8k,23.6k,228,28,1k,32
+Tata Steel,4.1,6.8k,28.7k,806,11,723,34
+EXL Service,3.7,6.7k,38.6k,706,518,878,18
+UltraTech Cement,4.2,6.6k,21.5k,523,76,670,37
+Cipla,4.1,6.6k,24.5k,463,73,916,18
+NTT Data Information Processing Services,4.0,6.5k,51.1k,669,37,791,39
+Dr. Reddy's,4.1,6.5k,24.1k,378,27,892,24
+Muthoot Fincorp,,6.5k,8.1k,396,42,326,55
+Sutherland Global Services,,6.5k,29.6k,588,175,970,29
+Bajaj Finance,,6.3k,20.6k,287,21,539,9
+ICICI Prudential Life Insurance,,6k,21.5k,364,2,639,7
+Wells Fargo,,6k,49k,545,85,920,10
+Jana Small Finance Bank,,5.9k,14.5k,235,18,635,13
+Amazon Development Centre India,,5.9k,31.4k,679,11,70,11
+Equitas Small Finance Bank,,5.8k,11.8k,277,60,420,23
+Lupin,,5.8k,22.3k,327,47,835,8
+Delhivery,,5.8k,18.5k,434,68,685,51
+Zydus Lifesciences,,5.8k,18.5k,293,30,715,20
+L&T Construction,,5.7k,18.5k,675,--,844,22
+JPMorgan Chase & Co.,,5.7k,69.2k,724,651,918,14
+Sun Pharmaceutical Industries,,5.5k,22k,374,148,657,13
+Hexaware Technologies,,5.5k,47.2k,700,200,601,25
+JSW Steel,,5.4k,26.3k,550,68,649,25
+ITC,,5.4k,22.2k,531,12,749,7
+FIS,,5.3k,38.7k,464,165,789,16
+HCL Group,,5.3k,54.2k,439,1,708,1
+Indian Army,,5.3k,9.4k,146,--,773,5
+Hindustan Unilever,4.2,5.3k,19.9k,336,19,705,1
+KPMG India,3.5,5.1k,50.8k,767,959,797,5
+Max Life Insurance,4.1,5.1k,18.4k,284,285,523,6
+Ujjivan Small Finance Bank,4.1,5k,12k,216,22,602,20
+IIFL Finance,4.0,5k,14.9k,238,55,443,15
+Oracle,3.7,5k,55.4k,868,1k,657,39
+Udaan,4.0,5k,17.6k,333,10,793,12
+Tata Projects,4.3,4.9k,20.1k,396,29,584,41
+Ekart Logistics,4.0,4.8k,13.2k,290,--,379,56
+Muthoot Finance,3.6,4.8k,12.3k,246,33,343,8
+Megha Engineering & Infrastructures,3.9,4.7k,16.3k,418,12,572,20
+eClerx,3.3,4.7k,28.1k,486,77,610,19
+Omega Healthcare,3.8,4.6k,22.3k,410,46,425,18
+Aurobindo Pharma,4.0,4.6k,21.5k,227,11,510,9
+JLL,4.2,4.6k,20.9k,327,36,581,14
+Bajaj Allianz Life Insurance,4.0,4.5k,15.7k,309,13,504,14
+Shapoorji Pallonji Group,4.2,4.5k,15k,313,19,664,13
+Siemens,4.1,4.5k,30.3k,416,715,687,13
+HSBC Group,4.0,4.5k,35.9k,477,64,1.2k,5
+Coforge,3.4,4.4k,39.9k,494,161,348,101
